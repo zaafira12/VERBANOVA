@@ -18,7 +18,7 @@ import google.generativeai as genai
 # -----------------------------------------------------------------
 # ⬇ *** PASTE THE SAME GEMINI API KEY YOU HAVE BEEN USING HERE *** ⬇
 # -----------------------------------------------------------------
-YOUR_GEMINI_API_KEY = "AIzaSyD8CAKUtjhSmQ3K8LWgbp-vhDoWeHO98b4"
+YOUR_GEMINI_API_KEY = "API key"
 
 print("\n--- Running Diagnostic Test ---")
 
