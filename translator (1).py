@@ -78,7 +78,7 @@ import os
 # -----------------------------------------------------------------
 # ⬇ *** PASTE YOUR GEMINI API KEY HERE *** ⬇
 # -----------------------------------------------------------------
-YOUR_GEMINI_API_KEY = "AIzaSyBsUgqRyS4asRueLbksC1bVp3lkrDPqPAQ"
+YOUR_GEMINI_API_KEY = "API Key"
 
 # Configure the Gemini client
 try:
