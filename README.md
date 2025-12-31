@@ -53,6 +53,7 @@ YOUR_GEMINI_API_KEY = "your_real_api_key_here"
 
 # Example
 Enter Text > kal tum office jaoge kya
+
 Output:
 English: Will you go to the office tomorrow?
 
